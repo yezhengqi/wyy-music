@@ -7,3 +7,5 @@ NeteaseCloudMusicApi 官网：https://neteasecloudmusicapi.vercel.app/#/
 1、 yarn add 安装依赖
 
 2、 yarn run serve 运行
+
+在线预览地址：https://wyy-music-five.vercel.app/#/layout/home
